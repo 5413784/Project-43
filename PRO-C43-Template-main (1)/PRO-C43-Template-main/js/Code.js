@@ -20,7 +20,7 @@ function clues() {
     textSize(15)
     text("A T E D A S B A", 100,250)
     fill("lightblue")
-    text("Hint: Stores all information !!", 100,270)
+    text("Hint: Stores all information !!", 100,270) 
     
 
 }
